@@ -1,9 +1,13 @@
 *.pyc
 *~
 __pycache__
-myvenv
-env
-venv
+.env
+.venv
+env/
+venv/
+ENV/
+myvenv/
 /static
 .DS_Store
 .idea
+.ipynb_checkpoints
